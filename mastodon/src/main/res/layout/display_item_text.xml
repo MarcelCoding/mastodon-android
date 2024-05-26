@@ -15,7 +15,7 @@
 		android:paddingRight="16dp"
 		android:paddingTop="16dp"
 		android:paddingBottom="8dp"
-		android:lineSpacingExtra="5.25dp"/>
+		android:textAppearance="@style/m3_body_large"/>
 
 	<ViewStub
 		android:id="@+id/translation_info"
